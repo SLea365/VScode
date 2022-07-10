@@ -25,7 +25,7 @@
 	{
 		LED0=0;
 		LED1=0 ;
-		/////jjjjjjjjjfsdfsdfsd
+	//Õ¯ÀŸ≤‚ ‘
 		delay_ms(300);	//—” ±300ms
 	}
  }
